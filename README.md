@@ -11,5 +11,5 @@ A collection of my Repositories for python. Tutorials and projects from web to A
 [Link to the repo](https://github.com/katalekoweb/curso-de-ciencia-de-dados)
 
 ## Simple web app in Flask
-[Link to the web repo](https://github.com/katalekoweb/flask-website)
+[Link to the web repo](https://github.com/katalekoweb/flask-website) \
 [Link to flask with mvc ](https://github.com/katalekoweb/python-flask-mvc)
